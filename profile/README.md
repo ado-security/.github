@@ -1,12 +1,18 @@
-## Hi there 👋
+# ABOUT SHIELD
 
-<!--
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p align="center">
+  <table>
+    <tr>
+      <td align="left" style="padding=0;width=50%;">
+         Defensive Shield’s knowledge and expertise covers a variety of elements from the cyber-security chain of value; the interoperability, identification, protection, detection, response and recovery from active and potential threats to information (data), IT infrastructure and people.<br />
+<br />
+These services are delivered from our Security Operations Center (SOC), Advanced Analytics through our SAC (Security Analytics Center) and Security & Industry Research, where Defensive Shield Solutions team provides 24/7 support with the best methodologies in the industry and custom tools to provide each and every customer with the necessary intel (Intelligence) to identify business opportunities, threats and risks.
+      </td>
+      <td align="center" style="padding=0;width=50%;">
+        <img align="middle" src="https://defit.dk/Content/SVG/Icon_Shield.png" alt="Image of two shields" width="200" />
+      </td>
+    </tr>
+  </table>
+</p>
